@@ -1,8 +1,10 @@
-
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+<div>
+	<p style="margin-bottom:20px"> Alpar Gabos - <a href="//alpargabos.com">official website</a></p>
+    <h2>
+      <a href="//github.com/alpargabos"><i class="fa fa-github-square"></i></a>
+      <a href="//linkedin.com/in/alpargabos"><i class="fa fa-linkedin-square"></i></a>
+      <a href="//facebook.com/alpar.gabos.3"><i class="fa fa-facebook-square"></i></a>
+      <a href="//twitter.com/alpargabos"><i class="fa fa-twitter-square"></i></a>
+    </h2>
+    <p>SunWa © 2015</p>
+</div>
