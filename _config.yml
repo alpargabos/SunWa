@@ -16,7 +16,7 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "SunWa"
-keywords:    "sun, nasa, sdfo, wallpaper, hd wallpaper, app, application, sunburst, astronomy, sun sattelite, spacecraft, Solar Dynamic Observatory, sunset, sunrise, beautiful sun, sunstorm, SinglePaged, jekyll"
+keywords:    "sun, nasa, sdfo, wallpaper, wallpapers hd, sun wallpaper, sun live wallpaper, app, application, sunburst, astronomy, sun sattelite, spacecraft, Solar Dynamic Observatory, sunset, sunrise, beautiful sun, sunstorm, SinglePaged, jekyll"
 description: "Android app to see our beautiful sun! And set it as a wallpaper."
 source_link: "https://github.com/alpargabos/SunWa"
 favicon:     "favicon/favicon.ico"
