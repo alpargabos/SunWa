@@ -87,11 +87,11 @@
 <script type="text/javascript">  
     $('document').ready(function() {
         'use strict';
-        
+
       $('.countdown').final_countdown({
             'start': 1437094005,
             'end': 1440784800,
-            'now': 1439768515        
+            'now': parseInt((new Date().getTime()+"").substring(0, 10))
         });
     });
 </script>
