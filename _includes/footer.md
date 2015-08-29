@@ -1,5 +1,5 @@
 <div>
-	<p style="margin-bottom:20px"> Alpar Gabos - <a href="//alpargabos.com">official website</a></p>
+	<p style="margin-bottom:20px"> Alpar Gabos - <a href="//alpargabos.com" style="text-decoration:underline">official website</a></p>
     <h2>
       <a href="//github.com/alpargabos"><i class="fa fa-github-square"></i></a>
       <a href="//linkedin.com/in/alpargabos"><i class="fa fa-linkedin-square"></i></a>
